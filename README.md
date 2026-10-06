@@ -1,0 +1,1 @@
+# gate-doge-fee-tiers
